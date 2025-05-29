@@ -2,6 +2,9 @@
 
 This project explores music genre classification using deep learning models (BERT, DistilBERT, and LLaMA) with song lyrics and optional metadata (release year, danceability).
 
+
+*This project was primarily developed locally and later uploaded to GitHub.*
+
 <br>
 
 ### Notebooks
