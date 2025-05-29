@@ -1,0 +1,4 @@
+{
+    "test_accuracy": 0.4300406601291557,
+    "classification_report": "              precision    recall  f1-score   support\n\n       blues       0.42      0.21      0.28       676\n     country       0.44      0.71      0.55       810\n     hip hop       0.90      0.57      0.70       135\n        jazz       0.54      0.18      0.27       553\n         pop       0.35      0.58      0.43      1044\n      reggae       0.62      0.38      0.47       371\n        rock       0.53      0.27      0.36       592\n\n    accuracy                           0.43      4181\n   macro avg       0.54      0.41      0.44      4181\nweighted avg       0.47      0.43      0.41      4181\n"
+}
