@@ -5,6 +5,11 @@ This project explores music genre classification using deep learning models (BER
 
 *This project was primarily developed locally and later uploaded to GitHub.*
 
+## Contributors
+Thanks to these amazing people:
+- [@Elisabeth Sjovold](https://github.com/ElisabethSjovold)
+- [@uOlav Gangenes](https://github.com/Olav-cmd)
+
 <br>
 
 ### Notebooks
